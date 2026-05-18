@@ -143,9 +143,9 @@ Cross platform workforce tracking app in Flutter with real time GPS, offline syn
 
 ### [Kiwo](https://kiwo-five.vercel.app)
 
-<img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Portfolio-a78bfa?style=flat-square" />
+<img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Kids%20Learning-a78bfa?style=flat-square" />
 
-Portfolio and landing page with silky smooth animations using GSAP scroll trigger, Lenis smooth scroll and Framer Motion transitions. Built on Next.js 15 and React 19.
+Kids learning platform with silky smooth animations using GSAP scroll trigger, Lenis smooth scroll and Framer Motion transitions. Built on Next.js 15 and React 19.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=000)
