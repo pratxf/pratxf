@@ -35,7 +35,7 @@ const prateek = {
   highlights : [
     "10+ custom e-commerce platforms delivered",
     "50+ freelance clients on Fiverr",
-    "AI-powered SaaS products with Gemini & Fal AI",
+    "AI-powered SaaS products with OpenAI & Fal AI",
     "Real-time mobile apps with Flutter & Firebase",
   ],
   stack      : ["Next.js", "React", "TypeScript", "Node.js", "Flutter"],
@@ -102,11 +102,11 @@ Building **UGCAds**, an AI powered SaaS for UGC video generation, product photos
 
 <img src="https://img.shields.io/badge/SaaS-7c3aed?style=flat-square" /> <img src="https://img.shields.io/badge/AI%20Powered-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 
-AI powered UGC ad platform — Gemini and Fal AI for generation, Supabase auth, Prisma ORM, AWS S3 storage, Razorpay payments, Inngest background jobs and Upstash rate limiting.
+AI powered UGC ad platform — OpenAI and Fal AI for generation, Supabase auth, Prisma ORM, AWS S3 storage, Razorpay payments, Inngest background jobs and Upstash rate limiting.
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=000)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
 
 </td>
