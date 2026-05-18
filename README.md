@@ -1,25 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Prateek%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20%26%20Mobile%20Developer&descSize=18&descColor=a78bfa&descAlignY=65&animation=fadeIn" width="100%" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=540&lines=4%2B+years+building+products+that+ship;Next.js+%7C+React+%7C+TypeScript+%7C+Flutter;AI+products+%7C+SaaS+%7C+E-commerce+%7C+Mobile;50%2B+freelance+clients+%7C+10%2B+ecommerce+platforms" />
-</div>
+<h1>Prateek Shukla</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=15&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=560&lines=Full+Stack+%26+Mobile+Developer;4%2B+years+building+products+that+ship;Next.js+%7C+React+%7C+TypeScript+%7C+Flutter;AI+products+%7C+SaaS+%7C+E-commerce+%7C+Mobile" />
 
 <br/>
 
-<div align="center">
-  <a href="mailto:mehprat@proton.me">
-    <img src="https://img.shields.io/badge/mehprat@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white&labelColor=6D4AFF" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/pratxf">
-    <img src="https://img.shields.io/badge/github.com/pratxf-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pratxf">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+<a href="mailto:mehprat@proton.me">
+  <img src="https://img.shields.io/badge/mehprat@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/pratxf">
+  <img src="https://img.shields.io/badge/github.com/pratxf-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/pratxf">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 <br/>
@@ -100,7 +98,7 @@ Building **UGCAds**, an AI powered SaaS for UGC video generation, product photos
 
 ### [UGCAds](https://github.com/pratxf/UGCAds)
 
-<img src="https://img.shields.io/badge/SaaS-7c3aed?style=flat-square" /> <img src="https://img.shields.io/badge/AI%20Powered-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/SaaS-7c3aed?style=flat-square" /> <img src="https://img.shields.io/badge/AI%20Powered-412991?style=flat-square&logo=openai&logoColor=white" />
 
 AI powered UGC ad platform — OpenAI and Fal AI for generation, Supabase auth, Prisma ORM, AWS S3 storage, Razorpay payments, Inngest background jobs and Upstash rate limiting.
 
@@ -195,27 +193,11 @@ React Native geotagged photo capture app with real time GPS overlays, Google Map
 ## stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=pratxf&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=e2e2e2&rank_icon=percentile&include_all_commits=true" />
-  &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratxf&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e2e2e2&langs_count=6&card_width=280" />
+  <img src="https://streak-stats.demolab.com?user=pratxf&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=e2e2e2&dates=888888&currStreakNum=ffffff" width="60%" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pratxf&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=e2e2e2&dates=888888&currStreakNum=ffffff" width="55%" />
-</div>
-
----
-
-## activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratxf&theme=react-dark&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=c084fc&area=true&area_color=7c3aed&hide_border=true" width="95%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 </div>
