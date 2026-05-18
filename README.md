@@ -1,150 +1,214 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prat&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=building%20things%20that%20move%20%26%20ship&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=250&section=header&text=Prat&fontColor=ffffff&fontSize=90&fontAlignY=55&desc=full-stack%20%2F%20mobile%20developer&descSize=20&descAlignY=75&descColor=a78bfa&animation=fadeIn" width="100%" />
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=16&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=500&lines=building+fast+UIs+that+actually+ship+%F0%9F%9A%80;Next.js+%2F+React+%2F+TypeScript+%2F+Flutter;AI+products+%2B+full-stack+systems;clean+code%2C+good+animations%2C+real+users" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:mehhprat@gmail.com">
+    <img src="https://img.shields.io/badge/mehhprat@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/pratxf">
+    <img src="https://img.shields.io/badge/pratxf-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=pratxf&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+</div>
+
+<br/>
+
+---
+
+## ⚡ about me
+
+```ts
+const prat = {
+  role       : "full-stack & mobile developer",
+  focus      : ["web apps", "mobile apps", "AI-integrated products"],
+  stack      : ["Next.js", "React 19", "TypeScript", "Flutter"],
+  backend    : ["Supabase", "Firebase", "Prisma", "AWS S3"],
+  animations : ["Framer Motion", "GSAP", "Lenis"],
+  ai         : ["Google Gemini", "Fal AI"],
+  deploys_on : "Vercel",
+  currently  : "shipping fast, learning more",
+};
+```
+
+<br/>
+
+---
+
+## 🛠️ tech stack
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Next.js+%2F+React+%2F+TypeScript+%2F+Flutter;crafting+fast+UIs+%26+full-stack+systems)](https://git.io/typing-svg)
+### languages
+<img src="https://skillicons.dev/icons?i=ts,dart,js&theme=dark&perline=3" />
+
+### frontend & mobile
+<img src="https://skillicons.dev/icons?i=nextjs,react,flutter,tailwind&theme=dark&perline=4" />
+
+### backend & infra
+<img src="https://skillicons.dev/icons?i=supabase,firebase,prisma,aws,vercel,redis&theme=dark&perline=6" />
+
+### tools & others
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman&theme=dark&perline=5" />
 
 </div>
 
----
+<br/>
 
-## about
-
-full-stack developer focused on web and mobile — mostly Next.js, React 19, and Flutter. I like building things with good animations, clean APIs, and actual deployment behind them.
-
-- working with **TypeScript** across every project
-- ship to **Vercel** by default, integrate with **Supabase** / **Firebase** for the backend
-- use **Flutter** for cross-platform mobile when needed
-- interested in AI-augmented products (**Gemini**, **Fal AI**)
+**also using:**
+`Framer Motion` &nbsp;`GSAP` &nbsp;`Lenis` &nbsp;`Zustand` &nbsp;`Zod` &nbsp;`shadcn/ui` &nbsp;`Radix UI` &nbsp;`Inngest` &nbsp;`Razorpay` &nbsp;`FFmpeg` &nbsp;`Lottie` &nbsp;`Recharts` &nbsp;`Upstash`
 
 ---
 
-## stack
+## 🗂️ projects
 
-**core**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React_19-000?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-000?style=flat-square&logo=flutter&logoColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-000?style=flat-square&logo=dart&logoColor=0175C2)
-
-**styling / animation**
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=flat-square&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-000?style=flat-square&logo=greensock&logoColor=88CE02)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square&logo=shadcnui&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-000?style=flat-square&logo=radixui&logoColor=white)
-
-**backend / infra**
-
-![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-000?style=flat-square&logo=amazons3&logoColor=FF9900)
-![Upstash](https://img.shields.io/badge/Upstash-000?style=flat-square&logo=upstash&logoColor=00E9A3)
-
-**ai / tooling**
-
-![Google Gemini](https://img.shields.io/badge/Gemini-000?style=flat-square&logo=googlegemini&logoColor=8E75B2)
-![Fal AI](https://img.shields.io/badge/Fal_AI-000?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
-![Inngest](https://img.shields.io/badge/Inngest-000?style=flat-square&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-000?style=flat-square&logo=zod&logoColor=3E67B1)
-![Zustand](https://img.shields.io/badge/Zustand-000?style=flat-square&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-000?style=flat-square&logo=razorpay&logoColor=02042B)
-
----
-
-## projects
-
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### [Kiwo](https://kiwo-five.vercel.app)
-portfolio / landing — silky-smooth animations with **GSAP** scroll-trigger and **Lenis** smooth scroll. built in Next.js 15 + React 19.
+<h3>🌐 <a href="https://kiwo-five.vercel.app">Kiwo</a></h3>
 
-`Next.js` `GSAP` `Framer Motion` `Lenis` `Tailwind`
+<img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" />
 
-</td>
-<td width="50%" valign="top">
+Portfolio and landing page with **silky smooth animations** using GSAP scroll trigger, Lenis smooth scroll, and Framer Motion transitions. Built on Next.js 15 and React 19.
 
-### [UGCAds](https://github.com/pratxf/UGCAds)
-AI-powered UGC ad platform — **Gemini** + **Fal AI** for generation, **Supabase** auth, **Prisma** ORM, **AWS S3** storage, **Razorpay** payments, **Inngest** background jobs.
+<br/>
 
-`Next.js 16` `Supabase` `Prisma` `AWS S3` `Gemini AI` `Fal AI` `Razorpay`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Drazzel](https://drazzel-delta.vercel.app)
-full-stack app with **Firebase** backend, JWT auth via **jose**, XLSX data export, and image optimisation with **Sharp**.
-
-`Next.js` `Firebase` `bcryptjs` `jose` `Zod` `XLSX`
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=000)
+![Framer](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=000)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### [Izumi](https://github.com/pratxf/Izumi)
-cross-platform mobile app in **Flutter** — Firebase full-suite (Auth, Firestore, Storage, Messaging, Analytics, Crashlytics), Google Maps, foreground task tracking, and local notifications.
+<h3>🤖 <a href="https://github.com/pratxf/UGCAds">UGCAds</a></h3>
 
-`Flutter` `Dart` `Firebase` `Google Maps` `Provider`
+<img src="https://img.shields.io/badge/Full--Stack-7c3aed?style=flat-square" />
+
+AI powered UGC ad platform using **Gemini and Fal AI** for generation, Supabase auth, Prisma ORM, AWS S3 storage, Razorpay payments, Inngest background jobs, and Upstash rate limiting.
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=000)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### [Heiwa](https://heiwa-rouge.vercel.app)
-clean UI experiment with **Radix UI** primitives, **Zustand** state, and **Framer Motion** transitions. dark-mode first via next-themes.
+<h3>⚡ <a href="https://drazzel-delta.vercel.app">Drazzel</a></h3>
 
-`Next.js` `Framer Motion` `Radix UI` `Zustand` `Lottie`
+<img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" />
+
+Full stack web app with a **Firebase** backend, stateless JWT auth via `jose`, bcrypt password hashing, Excel and XLSX data export, and Sharp image optimisation.
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
+
+<h3>📱 <a href="https://github.com/pratxf/Izumi">Izumi</a></h3>
+
+<img src="https://img.shields.io/badge/Mobile-02569B?style=flat-square&logo=flutter&logoColor=white" />
+
+Cross platform mobile app in **Flutter** with the full Firebase suite including Auth, Firestore, Storage, Messaging, Analytics and Crashlytics. Also integrates Google Maps, foreground task tracking, camera and push notifications.
+
+<br/>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" colspan="2">
+
+<h3>🌸 <a href="https://heiwa-rouge.vercel.app">Heiwa</a></h3>
+
+<img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" />
+
+Dark mode first UI built with **Radix UI** accessible primitives, **Zustand** state management, Framer Motion page transitions, Lottie animations, and next themes.
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Framer](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer)
+![Radix](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui)
+![Zustand](https://img.shields.io/badge/Zustand-443e38?style=flat-square)
 
 </td>
 </tr>
 </table>
-
----
-
-## stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pratxf&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=e5e5e5&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratxf&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e5e5e5&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=pratxf&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratxf&theme=react-dark&bg_color=0d0d0d&color=a78bfa&line=a78bfa&point=ffffff&hide_border=true" width="95%"/>
-
 </div>
 
 ---
 
+## 📊 github stats
+
 <div align="center">
-
-[![](https://img.shields.io/badge/mehhprat@gmail.com-000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:mehhprat@gmail.com)
-[![](https://img.shields.io/badge/pratxf-000?style=flat-square&logo=github&logoColor=white)](https://github.com/pratxf)
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pratxf&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=e2e2e2&rank_icon=percentile&include_all_commits=true" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratxf&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e2e2e2&langs_count=6&card_width=280" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pratxf&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=e2e2e2&dates=888888&currStreakNum=ffffff" width="55%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratxf&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8" width="90%" />
+</div>
+
+---
+
+## 📈 activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratxf&theme=react-dark&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=c084fc&area=true&area_color=7c3aed&hide_border=true" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratxf/pratxf/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratxf/pratxf/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/pratxf/pratxf/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&reversal=true" width="100%" />
+</div>
