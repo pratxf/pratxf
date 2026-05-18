@@ -6,15 +6,15 @@
 
 <br/>
 
-<a href="mailto:mehprat@proton.me">
-  <img src="https://img.shields.io/badge/mehprat@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" />
+<a href="mailto:mehhprat@gmail.com">
+  <img src="https://img.shields.io/badge/mehhprat@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/pratxf">
   <img src="https://img.shields.io/badge/github.com/pratxf-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/pratxf">
+<a href="https://www.linkedin.com/in/meprat">
   <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
