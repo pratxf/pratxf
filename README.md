@@ -33,12 +33,12 @@ const prateek = {
   highlights : [
     "10+ custom e-commerce platforms delivered",
     "50+ freelance clients on Fiverr",
-    "AI-powered SaaS products with OpenAI & Fal AI",
-    "Real-time mobile apps with Flutter & Firebase",
+    "AI-powered SaaS with OpenAI, Fal AI & virtual try-on",
+    "Enterprise mobile apps with Flutter & Firebase",
   ],
   stack      : ["Next.js", "React", "TypeScript", "Node.js", "Flutter"],
-  databases  : ["Supabase", "PostgreSQL", "Firebase", "MongoDB"],
-  cloud      : ["Vercel", "AWS S3", "EC2", "Cloudflare R2"],
+  databases  : ["Supabase", "Firebase", "PostgreSQL", "MongoDB"],
+  cloud      : ["Vercel", "Cloudflare R2", "AWS S3", "EC2"],
   currently  : "Full Stack Developer @ Aasman Digitals",
 };
 ```
@@ -49,7 +49,7 @@ const prateek = {
 
 **Full Stack Developer &nbsp;·&nbsp; Aasman Digitals** &nbsp;&nbsp; `Remote · Oct 2025 → Present`
 
-Building **UGCAds**, an AI powered SaaS for UGC video generation, product photoshoots, AI tryon workflows, subscription billing and admin management. Developed **Drazzel**, a full stack e-commerce platform with a custom storefront, smart discount engine, loyalty rewards, payment gateway and shipping workflows. Built **Izumi**, a Flutter workforce tracking app with real time GPS, offline sync and role based dashboards. Delivered 10+ custom e-commerce sites and integrated AI assisted dev workflows using Claude Code and OpenAI Codex.
+Building **UGCAds**, an AI powered SaaS for UGC video generation, product photoshoots and AI tryon workflows with subscription billing and admin management. Developed **Drazzel**, a full stack e-commerce platform for India's premium dry fruits market with 20+ admin pages, Shiprocket integration and a sophisticated discount engine. Built **Izumi**, a Flutter enterprise workforce management app with live GPS map dashboards, activity aware polling and offline sync. Delivered 10+ custom e-commerce sites and integrated AI assisted dev workflows using Claude Code and OpenAI Codex.
 
 ---
 
@@ -83,7 +83,7 @@ Building **UGCAds**, an AI powered SaaS for UGC video generation, product photos
 
 <div align="center">
 
-`Framer Motion` &nbsp; `GSAP` &nbsp; `Lenis` &nbsp; `Zustand` &nbsp; `Zod` &nbsp; `shadcn/ui` &nbsp; `Radix UI` &nbsp; `Inngest` &nbsp; `Razorpay` &nbsp; `Cloudflare R2` &nbsp; `React Native` &nbsp; `Upstash` &nbsp; `Recharts` &nbsp; `FFmpeg`
+`Framer Motion` &nbsp; `GSAP` &nbsp; `Lenis` &nbsp; `Zustand` &nbsp; `Zod` &nbsp; `shadcn/ui` &nbsp; `Radix UI` &nbsp; `Inngest` &nbsp; `Razorpay` &nbsp; `Cloudflare R2` &nbsp; `Shiprocket` &nbsp; `React Native` &nbsp; `Upstash` &nbsp; `Recharts` &nbsp; `FFmpeg`
 
 </div>
 
@@ -100,12 +100,12 @@ Building **UGCAds**, an AI powered SaaS for UGC video generation, product photos
 
 <img src="https://img.shields.io/badge/SaaS-7c3aed?style=flat-square" /> <img src="https://img.shields.io/badge/AI%20Powered-412991?style=flat-square&logo=openai&logoColor=white" />
 
-AI powered UGC ad platform — OpenAI and Fal AI for generation, Supabase auth, Prisma ORM, AWS S3 storage, Razorpay payments, Inngest background jobs and Upstash rate limiting.
+AI powered ad content platform — brands create UGC videos up to 20s with 100+ AI actors, product photos with 150+ scene templates, and virtual try-on models. Supabase auth, Cloudflare R2 storage, Razorpay billing, Inngest job processing.
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=000)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 </td>
 <td width="50%" align="center">
@@ -114,12 +114,12 @@ AI powered UGC ad platform — OpenAI and Fal AI for generation, Supabase auth, 
 
 <img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/E-commerce-f97316?style=flat-square" />
 
-Full stack e-commerce with custom storefront, admin dashboard, smart discount engine, loyalty rewards, Firebase backend, stateless JWT auth and XLSX data export.
+Full stack e-commerce for India's premium dry fruits market — product variants, bundle packs, real time cart, COD and Razorpay payments, loyalty rewards, 20+ admin pages, Shiprocket shipping and a sophisticated discount engine.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 
 </td>
 </tr>
@@ -129,9 +129,9 @@ Full stack e-commerce with custom storefront, admin dashboard, smart discount en
 
 ### [Izumi](https://github.com/pratxf/Izumi)
 
-<img src="https://img.shields.io/badge/Mobile-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Workforce%20Tracking-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/Mobile-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Enterprise-22c55e?style=flat-square" />
 
-Cross platform workforce tracking app in Flutter with real time GPS, offline sync, full Firebase suite, Google Maps, foreground task tracking, camera and push notifications.
+Enterprise field workforce management app — live GPS map dashboards, activity aware polling that adapts to movement, geotagged photo capture, offline sync, crash recovery and role based access control.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
@@ -143,9 +143,9 @@ Cross platform workforce tracking app in Flutter with real time GPS, offline syn
 
 ### [Kiwo](https://kiwo-five.vercel.app)
 
-<img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Kids%20Learning-a78bfa?style=flat-square" />
+<img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/EdTech-a78bfa?style=flat-square" />
 
-Kids learning platform with silky smooth animations using GSAP scroll trigger, Lenis smooth scroll and Framer Motion transitions. Built on Next.js 15 and React 19.
+Premium children's learning platform for grades 1–6 — adaptive AI tutor, 6 subject worlds, game based lessons, personalized learning paths, streak and badge rewards, and parental analytics dashboard.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=000)
@@ -156,27 +156,13 @@ Kids learning platform with silky smooth animations using GSAP scroll trigger, L
 </tr>
 
 <tr>
-<td width="50%" align="center">
-
-### [Heiwa](https://heiwa-rouge.vercel.app)
-
-<img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/UI-c084fc?style=flat-square" />
-
-Dark mode first UI with Radix UI primitives, Zustand state management, Framer Motion page transitions, Lottie animations and next themes.
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![Framer](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer)
-![Radix](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui)
-![Zustand](https://img.shields.io/badge/Zustand-443e38?style=flat-square)
-
-</td>
-<td width="50%" align="center">
+<td width="50%" align="center" colspan="2">
 
 ### Mapcam
 
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/GPS%20App-4285F4?style=flat-square" />
 
-React Native geotagged photo capture app with real time GPS overlays, Google Maps API, role based flows and secure image storage on AWS S3 with an EC2 backend.
+React Native geotagged photo capture app with real time GPS overlays, Google Maps API, role based user and admin flows, and secure image storage on AWS S3 with an EC2 backend.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
 ![AWS](https://img.shields.io/badge/AWS_S3%2FEC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
