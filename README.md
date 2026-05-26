@@ -117,9 +117,9 @@ AI powered ad content platform — brands create UGC videos up to 20s with 100+ 
 Full stack e-commerce for India's premium dry fruits market — product variants, bundle packs, real time cart, COD and Razorpay payments, loyalty rewards, 20+ admin pages, Shiprocket shipping and a sophisticated discount engine.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![Shopflo](https://img.shields.io/badge/Shopflo-000000?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -134,7 +134,7 @@ Full stack e-commerce for India's premium dry fruits market — product variants
 Enterprise field workforce management app — live GPS map dashboards, activity aware polling that adapts to movement, geotagged photo capture, offline sync, crash recovery and role based access control.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=000)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
