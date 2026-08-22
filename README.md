@@ -8,7 +8,7 @@
 
 <br />
 
-[GitHub](https://github.com/pratxf) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/meprat)
+[Portfolio](https://pratxf.xyz) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/meprat)
 
 </div>
 
